@@ -31,3 +31,26 @@
 * [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
 * [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 * [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-for-data-science-and-analyti)
+
+#### [Yale]
+Yale has no online CS courses
+
+#### [University of Pennsylvania](http://lsts.to/list/online-cs-courses-offered-by-upenn)
+* [Introduction to Programming with Python and Java Specialization](https://www.coursera.org/specializations/programming-python-java)
+* [Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
+* [Gamification](https://www.coursera.org/learn/gamification)
+
+#### [Darthmouth](http://lsts.to/list/online-cs-courses-offered-by-darthmouth-university)
+* [C Programming: Getting Started](https://www.edx.org/course/c-programming-getting-started)
+* [C Programming: Language Foundations](https://www.edx.org/course/c-programming-language-foundations)
+* [C Programming: Modular Programming and Memory Management](https://www.edx.org/course/c-programming-modular-programming-and-memory-manag)
+* [C Programming: Pointers and Memory Management](https://www.edx.org/course/c-programming-pointers-and-memory-management)
+* [C Programming: Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types)
+* [C Programming: Using Linux Tools and Libraries](https://www.edx.org/course/c-programming-using-linux-tools-and-libraries)
+* [Linux Basics: The Command Line Interface](https://www.edx.org/course/linux-basics-the-command-line-interface)
+
+#### [Brown]
+Brown has no online CS courses
+
+#### [Cornell]
+Cornell has no good online CS courses
