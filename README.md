@@ -1,6 +1,7 @@
 ## Courses
 ### Computer Science
-#### Harvard
+#### Harvard [Online CS courses offered by Harvard University](http://lsts.to/list/online-cs-courses-offered-by-harvard-university)
+
 * [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 * [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
