@@ -23,3 +23,10 @@
 * [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)
 * [Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
+#### Columbia
+* [Machine Learning](https://www.edx.org/course/machine-learning)
+* [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai)
+* [Robotics](https://www.edx.org/course/robotics-2)
+* [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
+* [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
+* [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-for-data-science-and-analyti)
