@@ -12,7 +12,7 @@
 * [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)
 * [The Future of ML is Tiny and Bright](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 
-#### Princeton
+#### [Princeton](http://lsts.to/list/online-cs-courses-offered-by-princeton-university)
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 * [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
@@ -24,7 +24,7 @@
 * [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)
 * [Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
-#### Columbia
+#### [Columbia](http://lsts.to/list/online-cs-courses-offered-by-columbia-university)
 * [Machine Learning](https://www.edx.org/course/machine-learning)
 * [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai)
 * [Robotics](https://www.edx.org/course/robotics-2)
